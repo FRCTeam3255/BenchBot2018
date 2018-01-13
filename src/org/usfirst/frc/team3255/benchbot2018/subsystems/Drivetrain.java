@@ -1,7 +1,7 @@
-package org.usfirst.frc.team3255.robot.subsystems;
+package org.usfirst.frc.team3255.benchbot2018.subsystems;
 
-import org.usfirst.frc.team3255.robot.RobotMap;
-import org.usfirst.frc.team3255.robot.commands.DriveArcade;
+import org.usfirst.frc.team3255.benchbot2018.RobotMap;
+import org.usfirst.frc.team3255.benchbot2018.commands.DriveArcade;
 
 import com.ctre.phoenix.motorcontrol.NeutralMode;
 import com.ctre.phoenix.motorcontrol.can.WPI_TalonSRX;

@@ -5,9 +5,9 @@
 /* the project.                                                               */
 /*----------------------------------------------------------------------------*/
 
-package org.usfirst.frc.team3255.robot;
+package org.usfirst.frc.team3255.benchbot2018;
 
-import org.usfirst.frc.team3255.robot.subsystems.Drivetrain;
+import org.usfirst.frc.team3255.benchbot2018.subsystems.Drivetrain;
 
 import edu.wpi.first.wpilibj.TimedRobot;
 import edu.wpi.first.wpilibj.command.Command;
